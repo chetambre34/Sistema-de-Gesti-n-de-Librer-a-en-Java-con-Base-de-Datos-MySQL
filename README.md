@@ -96,3 +96,5 @@ Diagrama relacional simplificado
 
 ```
 autor (1) ──────< (N) libro (N) >────── (1) editorial
+```
+https://drive.google.com/file/d/1slBkQTqE9jtIbCnLSI3N5f7fKR33yo-d/view?usp=drive_link
